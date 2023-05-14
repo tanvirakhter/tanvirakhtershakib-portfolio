@@ -3497,3 +3497,9 @@ Primary use:	Showcase Portfolio
 		display:block;
 	}
 }
+
+hr.section-line {
+	border: none;
+	border-top: 1px solid #b7b7b7; /* Color and thickness of the line */
+	margin: 5px 0; /* Adjust the margin as per your layout */
+  }
