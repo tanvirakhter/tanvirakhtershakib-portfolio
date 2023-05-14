@@ -1417,7 +1417,7 @@ Primary use:	Showcase Portfolio
 		height:120px;
 		left:0;
 		top:0;
-		background-color:transparent;
+		background-color:rgba(255, 255, 255, 0.7);
 		position:fixed;
 		box-sizing:border-box;
 		z-index:1000;
@@ -1518,6 +1518,7 @@ Primary use:	Showcase Portfolio
 	
 	nav {
 		pointer-events: none;
+		
 	}
 	
 	nav.open {
